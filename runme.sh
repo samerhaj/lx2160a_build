@@ -1,6 +1,10 @@
 #!/bin/bash
 set -e
 
+BOOT=sd
+BOOT_LOADER=uefi
+BOOTLOADER_ONLY=yes
+
 # BOOT=sd,xspi
 # BOOT_LOADER=u-boot,uefi
 # DDR_SPEED=2400,2600,2900,3200
