@@ -12,7 +12,7 @@
 	branch = stable201911-lx2160a
 [submodule "build/tianocore/edk2-platforms"]
 	path = build/tianocore/edk2-platforms
-	url = https://github.com/SolidRun/edk2-platforms.git
+	url = https://github.com/samerhaj/edk2-platforms.git
 	branch = master-lx2160a 
 [submodule "build/tianocore/edk2-non-osi"]
 	path = build/tianocore/edk2-non-osi
